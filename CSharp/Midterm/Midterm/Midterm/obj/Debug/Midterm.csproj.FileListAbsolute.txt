@@ -1,0 +1,42 @@
+C:\Users\Devin\Desktop\Midterm\Midterm\Midterm\bin\Debug\Midterm.exe.config
+C:\Users\Devin\Desktop\Midterm\Midterm\Midterm\bin\Debug\Midterm.exe
+C:\Users\Devin\Desktop\Midterm\Midterm\Midterm\bin\Debug\Midterm.pdb
+C:\Users\Devin\Desktop\Midterm\Midterm\Midterm\obj\Debug\Midterm.csprojResolveAssemblyReference.cache
+C:\Users\Devin\Desktop\Midterm\Midterm\Midterm\obj\Debug\Midterm.Properties.Resources.resources
+C:\Users\Devin\Desktop\Midterm\Midterm\Midterm\obj\Debug\Midterm.csproj.GenerateResource.Cache
+C:\Users\Devin\Desktop\Midterm\Midterm\Midterm\obj\Debug\Midterm.exe
+C:\Users\Devin\Desktop\Midterm\Midterm\Midterm\obj\Debug\Midterm.pdb
+C:\Users\Devin\Desktop\Midterm\Midterm\Midterm\obj\Debug\Midterm.MainMenu.resources
+C:\Users\Devin\Desktop\Midterm\Midterm\Midterm\obj\Debug\Midterm.StudentList.resources
+C:\Users\Devin\Desktop\Midterm\Midterm\Midterm\obj\Debug\Midterm.GradeBook.resources
+C:\Users\Devin\Desktop\Midterm\Midterm\Midterm\obj\Debug\Midterm.AddStudent.resources
+C:\Users\Devin\Desktop\Midterm\Midterm\Midterm\obj\Debug\Midterm.RemoveStudents.resources
+C:\Users\Devin\Desktop\Midterm\Midterm\Midterm\obj\Debug\Midterm.EditGrades.resources
+E:\Computer Science\C# Programs\Midterm\Midterm\Midterm\bin\Debug\Midterm.exe.config
+E:\Computer Science\C# Programs\Midterm\Midterm\Midterm\obj\Debug\Midterm.exe
+E:\Computer Science\C# Programs\Midterm\Midterm\Midterm\obj\Debug\Midterm.pdb
+E:\Computer Science\C# Programs\Midterm\Midterm\Midterm\bin\Debug\Midterm.exe
+E:\Computer Science\C# Programs\Midterm\Midterm\Midterm\bin\Debug\Midterm.pdb
+E:\Computer Science\C# Programs\Midterm\Midterm\Midterm\obj\Debug\Midterm.csprojResolveAssemblyReference.cache
+E:\Computer Science\C# Programs\Midterm\Midterm\Midterm\obj\Debug\Midterm.AddStudent.resources
+E:\Computer Science\C# Programs\Midterm\Midterm\Midterm\obj\Debug\Midterm.EditGrades.resources
+E:\Computer Science\C# Programs\Midterm\Midterm\Midterm\obj\Debug\Midterm.GradeBook.resources
+E:\Computer Science\C# Programs\Midterm\Midterm\Midterm\obj\Debug\Midterm.MainMenu.resources
+E:\Computer Science\C# Programs\Midterm\Midterm\Midterm\obj\Debug\Midterm.Properties.Resources.resources
+E:\Computer Science\C# Programs\Midterm\Midterm\Midterm\obj\Debug\Midterm.RemoveStudents.resources
+E:\Computer Science\C# Programs\Midterm\Midterm\Midterm\obj\Debug\Midterm.StudentList.resources
+E:\Computer Science\C# Programs\Midterm\Midterm\Midterm\obj\Debug\Midterm.csproj.GenerateResource.Cache
+G:\Computer Science\C# Programs\Midterm\Midterm\Midterm\bin\Debug\Midterm.exe.config
+G:\Computer Science\C# Programs\Midterm\Midterm\Midterm\obj\Debug\Midterm.exe
+G:\Computer Science\C# Programs\Midterm\Midterm\Midterm\obj\Debug\Midterm.pdb
+G:\Computer Science\C# Programs\Midterm\Midterm\Midterm\bin\Debug\Midterm.exe
+G:\Computer Science\C# Programs\Midterm\Midterm\Midterm\bin\Debug\Midterm.pdb
+G:\Computer Science\C# Programs\Midterm\Midterm\Midterm\obj\Debug\Midterm.csprojResolveAssemblyReference.cache
+G:\Computer Science\C# Programs\Midterm\Midterm\Midterm\obj\Debug\Midterm.AddStudent.resources
+G:\Computer Science\C# Programs\Midterm\Midterm\Midterm\obj\Debug\Midterm.EditGrades.resources
+G:\Computer Science\C# Programs\Midterm\Midterm\Midterm\obj\Debug\Midterm.GradeBook.resources
+G:\Computer Science\C# Programs\Midterm\Midterm\Midterm\obj\Debug\Midterm.MainMenu.resources
+G:\Computer Science\C# Programs\Midterm\Midterm\Midterm\obj\Debug\Midterm.Properties.Resources.resources
+G:\Computer Science\C# Programs\Midterm\Midterm\Midterm\obj\Debug\Midterm.RemoveStudents.resources
+G:\Computer Science\C# Programs\Midterm\Midterm\Midterm\obj\Debug\Midterm.StudentList.resources
+G:\Computer Science\C# Programs\Midterm\Midterm\Midterm\obj\Debug\Midterm.csproj.GenerateResource.Cache

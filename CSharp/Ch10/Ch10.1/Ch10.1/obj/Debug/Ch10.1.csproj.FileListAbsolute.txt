@@ -1,0 +1,6 @@
+E:\Computer Science\C# Programs\Ch10\Ch10.1\Ch10.1\bin\Debug\Ch10.1.exe.config
+E:\Computer Science\C# Programs\Ch10\Ch10.1\Ch10.1\obj\Debug\Ch10.1.csprojResolveAssemblyReference.cache
+E:\Computer Science\C# Programs\Ch10\Ch10.1\Ch10.1\bin\Debug\Ch10.1.exe
+E:\Computer Science\C# Programs\Ch10\Ch10.1\Ch10.1\bin\Debug\Ch10.1.pdb
+E:\Computer Science\C# Programs\Ch10\Ch10.1\Ch10.1\obj\Debug\Ch10.1.exe
+E:\Computer Science\C# Programs\Ch10\Ch10.1\Ch10.1\obj\Debug\Ch10.1.pdb

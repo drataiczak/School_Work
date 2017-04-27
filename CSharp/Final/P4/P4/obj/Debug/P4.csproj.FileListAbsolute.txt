@@ -1,0 +1,12 @@
+G:\Computer Science\C# Programs\Final\P4\P4\bin\Debug\P4.exe.config
+G:\Computer Science\C# Programs\Final\P4\P4\bin\Debug\P4.exe
+G:\Computer Science\C# Programs\Final\P4\P4\bin\Debug\P4.pdb
+G:\Computer Science\C# Programs\Final\P4\P4\obj\Debug\P4.Form1.resources
+G:\Computer Science\C# Programs\Final\P4\P4\obj\Debug\P4.Properties.Resources.resources
+G:\Computer Science\C# Programs\Final\P4\P4\obj\Debug\P4.csproj.GenerateResource.Cache
+G:\Computer Science\C# Programs\Final\P4\P4\obj\Debug\P4.exe
+G:\Computer Science\C# Programs\Final\P4\P4\obj\Debug\P4.pdb
+G:\Computer Science\C# Programs\Final\P4\P4\obj\Debug\P4.csprojResolveAssemblyReference.cache
+F:\Computer Science\C# Programs\Final\P4\P4\bin\Debug\P4.exe.config
+F:\Computer Science\C# Programs\Final\P4\P4\obj\Debug\P4.exe
+F:\Computer Science\C# Programs\Final\P4\P4\obj\Debug\P4.pdb

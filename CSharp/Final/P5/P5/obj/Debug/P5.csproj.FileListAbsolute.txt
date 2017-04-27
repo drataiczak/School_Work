@@ -1,0 +1,10 @@
+G:\Computer Science\C# Programs\Final\P5\P5\bin\Debug\P5.exe.config
+G:\Computer Science\C# Programs\Final\P5\P5\obj\Debug\P5.csprojResolveAssemblyReference.cache
+G:\Computer Science\C# Programs\Final\P5\P5\obj\Debug\P5.Form1.resources
+G:\Computer Science\C# Programs\Final\P5\P5\obj\Debug\P5.Properties.Resources.resources
+G:\Computer Science\C# Programs\Final\P5\P5\obj\Debug\P5.csproj.GenerateResource.Cache
+G:\Computer Science\C# Programs\Final\P5\P5\bin\Debug\TestDatabase.mdb
+G:\Computer Science\C# Programs\Final\P5\P5\bin\Debug\P5.exe
+G:\Computer Science\C# Programs\Final\P5\P5\bin\Debug\P5.pdb
+G:\Computer Science\C# Programs\Final\P5\P5\obj\Debug\P5.exe
+G:\Computer Science\C# Programs\Final\P5\P5\obj\Debug\P5.pdb

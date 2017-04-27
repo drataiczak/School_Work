@@ -1,0 +1,10 @@
+G:\Computer Science\C# Programs\Final\P6\P6\bin\Debug\P6.exe.config
+G:\Computer Science\C# Programs\Final\P6\P6\bin\Debug\Employees.mdb
+G:\Computer Science\C# Programs\Final\P6\P6\bin\Debug\P6.exe
+G:\Computer Science\C# Programs\Final\P6\P6\bin\Debug\P6.pdb
+G:\Computer Science\C# Programs\Final\P6\P6\obj\Debug\P6.csprojResolveAssemblyReference.cache
+G:\Computer Science\C# Programs\Final\P6\P6\obj\Debug\P6.Form1.resources
+G:\Computer Science\C# Programs\Final\P6\P6\obj\Debug\P6.Properties.Resources.resources
+G:\Computer Science\C# Programs\Final\P6\P6\obj\Debug\P6.csproj.GenerateResource.Cache
+G:\Computer Science\C# Programs\Final\P6\P6\obj\Debug\P6.exe
+G:\Computer Science\C# Programs\Final\P6\P6\obj\Debug\P6.pdb

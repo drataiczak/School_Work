@@ -1,0 +1,12 @@
+G:\Computer Science\C# Programs\Final\P3\P3\bin\Debug\P3.exe.config
+G:\Computer Science\C# Programs\Final\P3\P3\bin\Debug\P3.exe
+G:\Computer Science\C# Programs\Final\P3\P3\bin\Debug\P3.pdb
+G:\Computer Science\C# Programs\Final\P3\P3\obj\Debug\P3.csprojResolveAssemblyReference.cache
+G:\Computer Science\C# Programs\Final\P3\P3\obj\Debug\P3.Form1.resources
+G:\Computer Science\C# Programs\Final\P3\P3\obj\Debug\P3.Properties.Resources.resources
+G:\Computer Science\C# Programs\Final\P3\P3\obj\Debug\P3.csproj.GenerateResource.Cache
+G:\Computer Science\C# Programs\Final\P3\P3\obj\Debug\P3.exe
+G:\Computer Science\C# Programs\Final\P3\P3\obj\Debug\P3.pdb
+F:\Computer Science\C# Programs\Final\P3\P3\bin\Debug\P3.exe.config
+F:\Computer Science\C# Programs\Final\P3\P3\obj\Debug\P3.exe
+F:\Computer Science\C# Programs\Final\P3\P3\obj\Debug\P3.pdb

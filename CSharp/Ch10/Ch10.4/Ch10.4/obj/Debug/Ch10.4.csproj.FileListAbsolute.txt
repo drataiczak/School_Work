@@ -1,0 +1,5 @@
+E:\Computer Science\C# Programs\Ch10\Ch10.4\Ch10.4\bin\Debug\Ch10.4.exe.config
+E:\Computer Science\C# Programs\Ch10\Ch10.4\Ch10.4\bin\Debug\Ch10.4.exe
+E:\Computer Science\C# Programs\Ch10\Ch10.4\Ch10.4\bin\Debug\Ch10.4.pdb
+E:\Computer Science\C# Programs\Ch10\Ch10.4\Ch10.4\obj\Debug\Ch10.4.exe
+E:\Computer Science\C# Programs\Ch10\Ch10.4\Ch10.4\obj\Debug\Ch10.4.pdb

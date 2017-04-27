@@ -1,0 +1,27 @@
+C:\Users\Devin\Desktop\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+C:\Users\Devin\Desktop\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+C:\Users\Devin\Desktop\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+C:\Users\Devin\Desktop\Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+C:\Users\Devin\Desktop\Calculator\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+C:\Users\Devin\Desktop\Calculator\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+C:\Users\Devin\Desktop\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+C:\Users\Devin\Desktop\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+C:\Users\Devin\Desktop\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+G:\Computer Science\C# Programs\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+G:\Computer Science\C# Programs\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+G:\Computer Science\C# Programs\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
+G:\Computer Science\C# Programs\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+G:\Computer Science\C# Programs\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+G:\Computer Science\C# Programs\Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+G:\Computer Science\C# Programs\Calculator\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+G:\Computer Science\C# Programs\Calculator\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+G:\Computer Science\C# Programs\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+E:\Computer Science\C# Programs\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe.config
+E:\Computer Science\C# Programs\Calculator\Calculator\Calculator\bin\Debug\Calculator.exe
+E:\Computer Science\C# Programs\Calculator\Calculator\Calculator\bin\Debug\Calculator.pdb
+E:\Computer Science\C# Programs\Calculator\Calculator\Calculator\obj\Debug\Calculator.csprojResolveAssemblyReference.cache
+E:\Computer Science\C# Programs\Calculator\Calculator\Calculator\obj\Debug\Calculator.Form1.resources
+E:\Computer Science\C# Programs\Calculator\Calculator\Calculator\obj\Debug\Calculator.Properties.Resources.resources
+E:\Computer Science\C# Programs\Calculator\Calculator\Calculator\obj\Debug\Calculator.csproj.GenerateResource.Cache
+E:\Computer Science\C# Programs\Calculator\Calculator\Calculator\obj\Debug\Calculator.exe
+E:\Computer Science\C# Programs\Calculator\Calculator\Calculator\obj\Debug\Calculator.pdb
